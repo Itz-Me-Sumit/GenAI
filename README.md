@@ -214,6 +214,6 @@ End-to-end applications that combine the concepts above. Projects will be added 
 
 Sumit
 GitHub: https://github.com/Itz-Me-Sumit
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/sumit-kumar-809687360/
 
 If this repository helps you, consider giving it a star.
