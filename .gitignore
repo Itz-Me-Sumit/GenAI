@@ -1,0 +1,34 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+data/output/*
+!data/output/.gitkeep
+
+# Local models / vector DBs (bade files)
+chroma_db/
+faiss_index/
+*.faiss
+*.pkl
